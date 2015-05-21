@@ -5,8 +5,8 @@
     "marking-surface": "^0.6.4",
     "publisssh": "~0.2.4",
     "t7e": "~0.3.1",
-    "zooniverse": "0.7.3",
-    "zooniverse-readymade": "0.6.5",
+    "zooniverse": "0.7.5",
+    "zooniverse-readymade": "0.8.0",
     "jqueryify": "1.8.0"
   },
   "scripts": {
